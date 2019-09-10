@@ -1,0 +1,4 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeGreatPush_androidDeploymentKey">deployment-key-here</string>
+    <string name="app_name">GreatPushDemoApp</string>
+</resources>

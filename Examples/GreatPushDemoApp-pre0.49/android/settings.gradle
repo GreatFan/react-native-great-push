@@ -1,0 +1,5 @@
+rootProject.name = 'GreatPushDemoApp'
+include ':react-native-great-push'
+project(':react-native-great-push').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-great-push/android/app')
+
+include ':app'
